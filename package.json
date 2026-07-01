@@ -1,0 +1,8 @@
+{
+  "name": "ruta-norte-autocaravana",
+  "version": "7.0.0",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
